@@ -1,4 +1,4 @@
-# listdirs
+# listfiles
 Go practice using external files
 
 Compiling:
