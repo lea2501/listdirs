@@ -1,5 +1,10 @@
 # listdirs
 Go practice using external files
 
-Usage: listdirs -dir string
-                 Directory to browse (default ".")
+Compiling:
+$ go build listfiles.go fileutils.go
+
+Running:
+$ ./listfiles -h
+Usage: listfiles -dir string
+                  Directory to browse (default ".")
